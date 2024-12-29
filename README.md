@@ -123,71 +123,71 @@ The Face Recognition Attendance System is an innovative solution developed durin
 *Clean and intuitive landing page with options for attendance marking and user management*
 
 ### Admin Panel
-![Home Page](Screenshot\s2.png)
+![Admin Panel](Screenshot\s2.png)
 *Secure administrative dashboard for system management and user control*
 
 ### Add New User
-![Home Page](Screenshot\S3.png)
+![Add New User](Screenshot\S3.png)
 *User-friendly registration interface with clear input fields for new user enrollment*
 
 ### Scan User
-![Home Page](Screenshot\S5.png)
+![Scan User](Screenshot\S5.png)
 *Real-time face scanning interface with visual guidance for optimal photo capture*
 
 ### User scanned and wait for admin approval
-![Home Page](Screenshot\S6.png)
+![User scanned and wait for admin approval](Screenshot\S6.png)
 *Confirmation screen showing successful face capture and pending admin verification*
 
 ### Already in unregistered list
-![Home Page](Screenshot\S7.png)
+![Already in unregistered list](Screenshot\S7.png)
 *Alert notification preventing duplicate registrations in the system*
 
 ### Unregistered Users
-![Home Page](Screenshot\S8.png)
+![Unregistered Users](Screenshot\S8.png)
 *Management interface displaying pending user approvals and registration requests*
 
 ### No Unregistered Users
-![Home Page](Screenshot\S9.png)
+![No Unregistered Users](Screenshot\S9.png)
 *Clean slate notification when no pending registrations are present*
 
 ### Registered Users
-![Home Page](Screenshot\S10.png)
+![Registered Users](Screenshot\S10.png)
 *Comprehensive list of approved users with their details and status*
 
 ### Take Attendance Page
-![Home Page](Screenshot\S11.png)
+![Take Attendance Page](Screenshot\S11.png)
 *Main attendance interface ready for face recognition and attendance marking*
 
 ### Scan and Take Attendance
-![Home Page](Screenshot\S12.png)
+![Scan and Take Attendance](Screenshot\S12.png)
 *Active face scanning process with real-time recognition feedback*
 
 ### Attendance can be taken
-![Home Page](Screenshot\S13.png)
+![Attendance can be taken](Screenshot\S13.png)
 *Successful recognition confirmation with attendance marking options*
 
 ### Add another user
-![Home Page](Screenshot\S14.png)
+![Add another user](Screenshot\S14.png)
 *Interface for adding additional users to the system database*
 
-### Take Attendance and View Recent Take Attendance
-![Home Page](Screenshot\S15.png)
+### Take Attendance and View Recent Attendance
+![Take Attendance and View Recent Attendance](Screenshot\S15.png)
 *Combined view of attendance marking and recent attendance records*
 
 ### Scan and Take Attendance
-![Home Page](Screenshot\S16.png)
+![Scan and Take Attendance](Screenshot\S16.png)
 *Face recognition in action with live feedback and status indicators*
 
 ### View Recent Take Attendance
-![Home Page](Screenshot\S17.png)
+![View Recent Take Attendance](Screenshot\S17.png)
 *Detailed view of recently marked attendance with timestamp information*
 
 ### Attendance List Search By Date
-![Home Page](Screenshot\S18.png)
+![Attendance List Search By Date](Screenshot\S18.png)
 *Date-wise attendance search and filtering capabilities*
 
 ### Attendance List Search By ID
-![Home Page](Screenshot\S19.png)
+![Attendance List Search By ID](Screenshot\S19.png)
 *User ID-based attendance record search and display*
 
 
