@@ -119,7 +119,7 @@ The Face Recognition Attendance System is an innovative solution developed durin
 ## Screenshots
 
 ### Home Page
-![Home Page](Screenshot\S1.png)
+![Home Page](C:\Github\Face-Recognize-Attendance-System\Screenshot\S1.png)
 *Clean and intuitive landing page with options for attendance marking and user management*
 
 ### Admin Panel
