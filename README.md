@@ -1,7 +1,6 @@
 # Face Recognition Attendance System 🎯
 
-## Introduction
-The Face Recognition Attendance System is an innovative solution developed during the AICTE TechSaksham Internship, supported by Microsoft and SAP. This system revolutionizes traditional attendance tracking by implementing facial recognition technology, offering a contactless, efficient, and accurate method of recording attendance. The system utilizes advanced computer vision techniques and machine learning algorithms to detect and recognize faces, making attendance management seamless and fraud-proof.
+
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -15,6 +14,8 @@ The Face Recognition Attendance System is an innovative solution developed durin
 - [License](#license)
 - [Contact](#contact)
 
+## Introduction
+The Face Recognition Attendance System is an innovative solution developed during the AICTE TechSaksham Internship, supported by Microsoft and SAP. This system revolutionizes traditional attendance tracking by implementing facial recognition technology, offering a contactless, efficient, and accurate method of recording attendance. The system utilizes advanced computer vision techniques and machine learning algorithms to detect and recognize faces, making attendance management seamless and fraud-proof.
 
 ## Detailed Feature Description
 
